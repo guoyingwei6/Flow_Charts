@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T19:02:40.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="vfYlfO-cn5AZlm924nHI" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T19:04:48.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="zfFzKOko7uaPufgGBTix" version="21.3.7" type="github">
   <diagram name="第 1 页" id="I29bHl2pF0mb1Mui4JTH">
     <mxGraphModel dx="1745" dy="545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -147,8 +147,8 @@
         <mxCell id="gxjCrsQBrb7OLJ9DHy3o-52" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;机器学习方法进行品种鉴定&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="350.5" y="1318" width="373" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="vdQ5SX03okYQxqZSHvR0-1" value="快速品种鉴定网页工具" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="528.25" y="1957" width="201" height="39" as="geometry" />
+        <mxCell id="vdQ5SX03okYQxqZSHvR0-1" value="快速品种鉴定网页端工具" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="500" y="1957" width="229" height="39" as="geometry" />
         </mxCell>
         <mxCell id="WcImbVqOG8HBOKmEHo0L-2" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;dashed=1;strokeColor=#b85450;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="349" y="1394" width="376" height="116" as="geometry" />
@@ -204,11 +204,11 @@
         <mxCell id="WcImbVqOG8HBOKmEHo0L-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;参数优化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="484" y="1684.5" width="114" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WcImbVqOG8HBOKmEHo0L-20" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;中国黄牛群体遗传结构及品种鉴定&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-24" y="1882" width="755" height="40" as="geometry" />
+        <mxCell id="WcImbVqOG8HBOKmEHo0L-20" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;中国普通牛群体遗传结构及品种鉴定&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="1882" width="751" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dqUMHoWpsgMnIgs0VNZK-1" value="地方品种特征序列数据库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-23" y="1957" width="229" height="39" as="geometry" />
+          <mxGeometry x="-21" y="1957" width="229" height="39" as="geometry" />
         </mxCell>
         <mxCell id="eXBQT5YGAY3fd1D_Y_BN-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;遗传资源评估&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-21" y="1684.5" width="348" height="42" as="geometry" />
@@ -232,22 +232,22 @@
           <mxGeometry x="99" y="1404.84" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eXBQT5YGAY3fd1D_Y_BN-12" value="普通牛品种鉴定超低密度芯片" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="264" y="1957" width="205" height="39" as="geometry" />
+          <mxGeometry x="239" y="1957" width="230" height="39" as="geometry" />
         </mxCell>
         <mxCell id="eXBQT5YGAY3fd1D_Y_BN-13" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="347" y="1757" width="380" height="65" as="geometry" />
+          <mxGeometry x="347" y="1757" width="378" height="65" as="geometry" />
         </mxCell>
         <mxCell id="WcImbVqOG8HBOKmEHo0L-21" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;dashed=1;strokeColor=#82b366;fontStyle=1" parent="eXBQT5YGAY3fd1D_Y_BN-13" vertex="1">
-          <mxGeometry x="5" y="1" width="380" height="65" as="geometry" />
+          <mxGeometry x="4.973684210526316" y="1" width="378" height="65" as="geometry" />
         </mxCell>
         <mxCell id="WcImbVqOG8HBOKmEHo0L-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;方法评估&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="eXBQT5YGAY3fd1D_Y_BN-13" vertex="1">
-          <mxGeometry x="135.75" y="13" width="113" height="40" as="geometry" />
+          <mxGeometry x="135.03552631578947" y="13" width="112.40526315789474" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WcImbVqOG8HBOKmEHo0L-25" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;准确度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=1 1;" parent="eXBQT5YGAY3fd1D_Y_BN-13" vertex="1">
-          <mxGeometry x="9.810000000000002" y="14" width="115" height="39" as="geometry" />
+          <mxGeometry x="9.758368421052634" y="14" width="114.39473684210526" height="39" as="geometry" />
         </mxCell>
         <mxCell id="WcImbVqOG8HBOKmEHo0L-26" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ROC曲线&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=1 1;" parent="eXBQT5YGAY3fd1D_Y_BN-13" vertex="1">
-          <mxGeometry x="259.75" y="14" width="112" height="39" as="geometry" />
+          <mxGeometry x="258.3828947368421" y="14" width="111.41052631578947" height="39" as="geometry" />
         </mxCell>
         <mxCell id="eXBQT5YGAY3fd1D_Y_BN-20" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-21" y="1538" width="347" height="109" as="geometry" />
