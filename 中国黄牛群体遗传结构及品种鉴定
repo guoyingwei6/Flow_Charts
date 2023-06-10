@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T02:49:21.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="wXHXZvVcVf8wU1QtNE8v" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T18:31:33.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="9eWSnqrBBosUEFbFWj1v" version="21.3.7" type="github">
   <diagram name="第 1 页" id="I29bHl2pF0mb1Mui4JTH">
-    <mxGraphModel dx="1420" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1745" dy="545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,34 +136,16 @@
           <mxGeometry x="238.5" y="902" width="382.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gxjCrsQBrb7OLJ9DHy3o-38" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;中国黄牛各品种基因型数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="77" y="1237" width="646" height="40" as="geometry" />
+          <mxGeometry x="-21" y="1232" width="744" height="45" as="geometry" />
         </mxCell>
         <mxCell id="gxjCrsQBrb7OLJ9DHy3o-39" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;群体遗传学分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1324" width="234" height="42" as="geometry" />
+          <mxGeometry x="-20" y="1324" width="341" height="42" as="geometry" />
         </mxCell>
         <mxCell id="gxjCrsQBrb7OLJ9DHy3o-52" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;机器学习方法进行品种鉴定&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="350.5" y="1324" width="373" height="42" as="geometry" />
         </mxCell>
         <mxCell id="gxjCrsQBrb7OLJ9DHy3o-57" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;选择信号分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="79" y="1505" width="192" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="gxjCrsQBrb7OLJ9DHy3o-40" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;系统发育树&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;strokeWidth=2;dashed=1;dashPattern=1 1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1386" width="89" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="gxjCrsQBrb7OLJ9DHy3o-41" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;主成分分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;strokeWidth=2;dashed=1;dashPattern=1 1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="182" y="1386" width="89" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="gxjCrsQBrb7OLJ9DHy3o-42" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;祖先成分分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;strokeWidth=2;dashed=1;dashPattern=1 1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1445" width="90" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="gxjCrsQBrb7OLJ9DHy3o-59" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;Fst&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;strokeWidth=2;dashed=1;dashPattern=1 1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="79" y="1567" width="89" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="gxjCrsQBrb7OLJ9DHy3o-60" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;π&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;strokeWidth=2;dashed=1;dashPattern=1 1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="181" y="1567" width="90" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="gxjCrsQBrb7OLJ9DHy3o-61" value="Tajima&#39;s D" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;strokeWidth=2;dashed=1;dashPattern=1 1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="79" y="1623" width="89" height="38" as="geometry" />
+          <mxGeometry x="-24" y="1533" width="348" height="42" as="geometry" />
         </mxCell>
         <mxCell id="vdQ5SX03okYQxqZSHvR0-1" value="WEB端工具开发" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="351" y="1935" width="375" height="39" as="geometry" />
@@ -223,7 +205,7 @@
           <mxGeometry x="484" y="1684.5" width="114" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WcImbVqOG8HBOKmEHo0L-20" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;中国黄牛群体遗传结构及品种鉴定&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="72" y="2009" width="656" height="40" as="geometry" />
+          <mxGeometry x="-24" y="2009" width="752" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WcImbVqOG8HBOKmEHo0L-21" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;dashed=1;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="349.25" y="1763" width="380" height="79" as="geometry" />
@@ -239,6 +221,42 @@
         </mxCell>
         <mxCell id="dqUMHoWpsgMnIgs0VNZK-1" value="地方品种特征序列数据库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="351" y="1871" width="374" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="eXBQT5YGAY3fd1D_Y_BN-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-20" y="1394.5" width="341" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="eXBQT5YGAY3fd1D_Y_BN-5" value="" style="group" vertex="1" connectable="0" parent="eXBQT5YGAY3fd1D_Y_BN-3">
+          <mxGeometry y="8" width="341" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="eXBQT5YGAY3fd1D_Y_BN-1" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;dashed=1;strokeColor=#b85450;fontStyle=1;" vertex="1" parent="eXBQT5YGAY3fd1D_Y_BN-5">
+          <mxGeometry width="341" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="gxjCrsQBrb7OLJ9DHy3o-40" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;系统发育树&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;strokeWidth=2;dashed=1;dashPattern=1 1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="eXBQT5YGAY3fd1D_Y_BN-5" vertex="1">
+          <mxGeometry x="11" y="8.581818181818182" width="89" height="41.836363636363636" as="geometry" />
+        </mxCell>
+        <mxCell id="gxjCrsQBrb7OLJ9DHy3o-41" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;主成分分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;strokeWidth=2;dashed=1;dashPattern=1 1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="eXBQT5YGAY3fd1D_Y_BN-5" vertex="1">
+          <mxGeometry x="245" y="10.727272727272727" width="89" height="40.763636363636365" as="geometry" />
+        </mxCell>
+        <mxCell id="gxjCrsQBrb7OLJ9DHy3o-42" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;祖先成分分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;strokeWidth=2;dashed=1;dashPattern=1 1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="eXBQT5YGAY3fd1D_Y_BN-5" vertex="1">
+          <mxGeometry x="126" y="10.727272727272727" width="90" height="39.690909090909095" as="geometry" />
+        </mxCell>
+        <mxCell id="eXBQT5YGAY3fd1D_Y_BN-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-23" y="1594.33" width="347" height="55.67000000000007" as="geometry" />
+        </mxCell>
+        <mxCell id="eXBQT5YGAY3fd1D_Y_BN-2" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;dashed=1;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="eXBQT5YGAY3fd1D_Y_BN-4">
+          <mxGeometry width="347" height="55.67" as="geometry" />
+        </mxCell>
+        <mxCell id="gxjCrsQBrb7OLJ9DHy3o-59" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;Fst&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;strokeWidth=2;dashed=1;dashPattern=1 1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="eXBQT5YGAY3fd1D_Y_BN-4" vertex="1">
+          <mxGeometry x="11" y="10.670000000000073" width="89" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gxjCrsQBrb7OLJ9DHy3o-60" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;π&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;strokeWidth=2;dashed=1;dashPattern=1 1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=0;" parent="eXBQT5YGAY3fd1D_Y_BN-4" vertex="1">
+          <mxGeometry x="249" y="9.670000000000073" width="90" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="gxjCrsQBrb7OLJ9DHy3o-61" value="Tajima&#39;s D" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;strokeWidth=2;dashed=1;dashPattern=1 1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="eXBQT5YGAY3fd1D_Y_BN-4" vertex="1">
+          <mxGeometry x="130" y="10.670000000000073" width="89" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="eXBQT5YGAY3fd1D_Y_BN-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;选择信号分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-24" y="1741" width="348" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
